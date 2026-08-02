@@ -1,0 +1,29 @@
+# 敏感配置文件（含 API Key，禁止提交）
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# 系统
+.DS_Store
+Thumbs.db
