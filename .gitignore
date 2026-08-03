@@ -27,3 +27,6 @@ ENV/
 # 系统
 .DS_Store
 Thumbs.db
+
+# 工作目录运行脚本时产生的临时结果图（正式图保存在 Demo/dayN/results/）
+/results/
